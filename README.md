@@ -6,9 +6,6 @@
   <kbd><img src="https://img.shields.io/badge/AI_ENGINEERING-7B2CBF?style=for-the-badge&logo=pytorch&logoColor=white" /></kbd>
   <kbd><img src="https://img.shields.io/badge/ROBOTICS-FF4D4D?style=for-the-badge&logo=ros&logoColor=white" /></kbd>
 </div>
-<p align="center">
-  Building intelligent systems that work in the real world
-</p>
 
 ---
 

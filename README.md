@@ -12,8 +12,8 @@ I am a B.Tech Electronics and Communication Engineering student at **IIITDM Kanc
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhnz-2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhnz-2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhnz-2006&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhnz-2006&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ### 🛠 Tech Stack
@@ -38,15 +38,9 @@ I am a B.Tech Electronics and Communication Engineering student at **IIITDM Kanc
 
 <div align="left">
   <a href="mailto:dhnz2006@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/dhanvanth-saravanan">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/dhanvanth-saravanan-366956288">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
   </a>
 </div>
-
-### 🐍 My Contributions
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dhnz-2006/dhnz-2006/output/snake.svg" alt="Snake animation" />

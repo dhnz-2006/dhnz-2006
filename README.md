@@ -1,8 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=250&section=header&text=DHANVANTH%20SARAVANAN&fontSize=70&fontAlignY=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=250&section=header&text=DHANVANTH%20SARAVANAN&fontSize=65&fontAlignY=40&animation=twinkling" />
 </div>
-<h3 align="center">AI × Robotics × Embedded Systems</h3>
-
+<div align="center">
+  <kbd><img src="https://img.shields.io/badge/ELECTRONICS-00B4D8?style=for-the-badge&logo=cpu&logoColor=white" /></kbd>
+  <kbd><img src="https://img.shields.io/badge/AI_ENGINEERING-7B2CBF?style=for-the-badge&logo=pytorch&logoColor=white" /></kbd>
+  <kbd><img src="https://img.shields.io/badge/ROBOTICS-FF4D4D?style=for-the-badge&logo=ros&logoColor=white" /></kbd>
+</div>
 <p align="center">
   Building intelligent systems that work in the real world
 </p>

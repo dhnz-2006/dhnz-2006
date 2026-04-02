@@ -43,7 +43,7 @@ I focus on building **end-to-end AI systems**, not isolated models.
 ## 🧪 Key Projects
 
 ### 🧬 Multimodal Age & BMI Prediction
-- 🏆 1st Place — Nationwide Hackathon  
+- 🏆 2nd Place — Nationwide Hackathon  
 - SigLIP + attention-based fusion  
 - Hybrid model: MLP + XGBoost  
 - 📉 Huber Loss: 10.4  
@@ -77,7 +77,6 @@ I focus on building **end-to-end AI systems**, not isolated models.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhnz-2006&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhnz-2006&theme=tokyonight&hide_border=true" height="160" />
 </div>
 

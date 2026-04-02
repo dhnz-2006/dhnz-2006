@@ -23,7 +23,6 @@
 - 🎓 B.Tech ECE @ IIITDM Kancheepuram  
 - 🛠 Lead @ Robotics Club (24 engineers, real systems)  
 - 🧪 Research: Bioacoustic ML (Edge Deployment)  
-- 🏆 1st Place — Nationwide AI Hackathon  
 
 I focus on building **end-to-end AI systems**, not isolated models.
 

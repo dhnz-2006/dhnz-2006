@@ -31,10 +31,10 @@
 > Initializing project_readout...
 
 > [01] Robotics Club Lead: Managing 24 engineers building autonomous systems.
-> [02] Edge AI: HornSense tactile alert system (real-time audio ML).
-> [03] Bioacoustic ML: Insect classification via STM32 + CNN.
+> [02] Edge AI: Series ARC Fault Detection using Frequency Pattern in Edge DL.
+> [03] Bioacoustic ML Research: Insect classification via STM32 + CNN.
 > [04] Medical Vision: 3D Glioma Tumor Reconstruction (nnUNetv2).
-> [05] Hackathon Winner: 1st place — Multimodal Age & BMI prediction (Huber Loss: 10.4).
+> [05] Hackathon: 2nd place — Multimodal Age & BMI prediction (Huber Loss: 10.4).
 ```
 
 ---
